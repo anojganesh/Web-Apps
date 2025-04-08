@@ -16,3 +16,7 @@ or
 
 `npm run build`
 `npm start`
+
+# A Quick Peek:
+
+![screenshot](./smokes_poutinerie_ss.png)
