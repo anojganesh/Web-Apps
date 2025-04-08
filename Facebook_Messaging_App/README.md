@@ -9,6 +9,6 @@ or
 `npm run build`
 `npm start`
 
-# A Quick Peek:
+# A Quick Peek (Responses are randomized):
 
 ![gif](./facebook_messeging_demo.gif)
